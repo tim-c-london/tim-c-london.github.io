@@ -21,19 +21,23 @@
 title: Tim's coffee blog
 #email: email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Computer scientist from London who happened to like coffee (amongst other things)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tim-c-london.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  tim-c-london
+#github_username:  tim-c-london
 instagram_username: tim.c.london
+markdown: kramdown
 
 # Build settings
 theme: minima
+#remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+ # - jekyll-remote-theme
+
+disqus:
+  shortname: tim-c-london
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -43,14 +47,14 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
