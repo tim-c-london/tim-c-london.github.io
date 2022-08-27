@@ -1,7 +1,7 @@
 ---
 layout: my_post
 title:  "Niche Zero: From Zero to Hero"
-date:   2022-08-26 21:44:45 +0100
+date:   2022-08-27 16:00:00 +0100
 ---
 
 Okay, that title was clickbaity. But this is my very first post here, so let's just let this one slide, shall we?
