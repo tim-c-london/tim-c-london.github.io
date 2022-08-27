@@ -23,13 +23,24 @@ Anyway, as you probably know, the main issue with NZ amongst filter and turbo-fr
 
 #### Issue #1. Lots of tiny coffee particles aka fines
 
-It's a good thing for classic style espresso as it gives it the body many people desire, but for filter the story is different. First, they extract immediately and are prone to over-extraction especially with the long filter brew time, giving you that unpleasant bitter taste. Second, they clog the filter, effectively turning your bright percolation V60 into an awkward immersion brew, and stretching the brew times from 2-3 minutes to 5-6, resulting in a muted over-extracted cup. 
+It's a good thing for classic style espresso as it gives it the body many people desire, but for filter the story is different. First, **fines** extract immediately and are prone to over-extraction especially with the long filter brew time, giving you that unpleasant bitter taste, although realistically they won't contribute too much to the resulting extraction given how small of a fraction of the total volume they occupy, so this is probably not our biggest problem.
+
+Second, and most annoyingly, they clog the filter, effectively turning your bright quick percolation V60 into an awkward slow dripping brew, stretching the brew times from 2-3 minutes to 5-6 or even more (I've had 20-minute V60s on coarse grinds), resulting in a muted over-extracted cup. 
 
 Check out this great Scott Rao's [article](https://www.scottrao.com/blog/2017/8/27/fines-fine-for-espresso-not-so-fine-for-filter ) on fines, and Jonathan Gagne's [fantastic article](https://coffeeadastra.com/2019/07/16/why-do-percolation-and-immersion-coffee-taste-so-different/) on immersion vs percolation for more info.
 
 #### Issue #2. Wide particle distribution peak
 
-Instead of having the majority (hence the frequency distribution peak) of coffee grounds to be roughly the same size, it grinds in a much wider size range. And once again, it can be great for classic style espresso because it's so forgiving -- you can miss the theoretical "perfect grind setting" by several ticks and still produce an excellent cup, as there we are not targeting that precise clarity over body and creaminess. For filter we do, though, again, not just because of the taste preference but due to the longer brew time. The smaller-sized part of the distribution is prone to over-extraction, and the larger-sized part will probably under-extract.
+Instead of having the majority (hence the frequency distribution peak) of coffee grounds to be roughly the same size, it grinds into a much wider size range. We call the grounds inside that distribution peak **boulders**, as opposed to fines, which are much smaller.
+
+And once again, this kind of distribution can be great for classic style espresso because it's so forgiving -- you can miss the theoretical "perfect grind setting" by several ticks and still produce an excellent cup, as there we are not targeting that precise clarity over body and creaminess. For filter we do, though, again, not just because of the taste preference but due to the longer brew time. 
+
+The problem is, that the smaller-sized part of the distribution peak -- still boulders, but _small_ boulders -- is prone to over-extraction. 
+Since we have so many of them compared to a more narrow distribution (and compared to the tiny amount of over-extracting fines which we do not care about), over-extracting these will probably have a significant negative effect on the resulting brew. Behold the muted cup, farewell the fruity notes.
+
+In reverse, the larger-sized part of the peak -- _large_ boulders -- will probably under-extract, but I would expect much less of a problem coming from that.
+
+---
 
 And that's it! Now, let's figure out the **solutions** for these problems.
 
@@ -43,7 +54,7 @@ To be more precise, I'm often setting the grind size to the **0** mark (I mean, 
 </details>
 &nbsp;
 
-By grinding way coarser we are moving the sweet spot of the wide particle distribution into a more desirable range, maybe at the cost of under-extracting some boulders in the very right area of the distribution. And while under-extracting is not great, it's over-extracting that we are afraid of the most.
+By grinding way coarser we are moving the sweet spot of the wide particle distribution into a more desirable range, maybe at the cost of under-extracting some large boulders in the very right area of the distribution. And while under-extracting is not great, it's over-extracting that we are afraid of the most. Sure, you won't have those 30% extraction yields, but our main goal here is to damage-control the taste.
 
 Apparently, the "Filter Drip" and "Coarse" annotations between 30-50 ticks are a lie, as also reported by e.g. [Patrik Rolf from April](https://www.youtube.com/watch?v=EVTIfrOrI4o) and [Rohan from Pocket Science Coffee](https://pocketsciencecoffee.com/). Initially I trusted the markings so I was hesitant to try grinding past the calibration mark, but eventually I gave up and was surprised at the results. Moreover, I was always curious why people on youtube tend to have large fluffy grounds while mine were nothing like that. Well, now we know.
 
@@ -98,7 +109,7 @@ So I bought [this thing](https://www.amazon.co.uk/gp/product/B09P3KQRWB) to blow
 
 And that's pretty much it! Of course there are lots of other things you can do to improve your filter and espresso brews, but they are not specific to the Niche, and therefore outside of the scope of this article.
 
-Special thanks to folks from the Decent discord for lots of interesting discussions.
+Special thanks to folks from the Decent discord for lots of interesting discussions. In particular, thanks to [Rohan B.](https://pocketsciencecoffee.com/) for also proof-reading this post and providing excellent comments.
 
 I'm sorry if I forgot to mention or put a reference to someone, as lots of people have been discussing this, and I'm not claiming that these ideas are originally mine. Also this was intended as a practical guide and not a full-blown literature review.
 
