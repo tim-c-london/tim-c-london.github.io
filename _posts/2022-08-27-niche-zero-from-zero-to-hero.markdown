@@ -4,6 +4,8 @@ title:  "Niche Zero: From Zero to Hero"
 date:   2022-08-27 16:00:00 +0100
 ---
 
+<meta property="og:image" content="https://tim-c-london.github.io/assets/posts/niche-zero-zero.jpeg" />
+
 Okay, that title was clickbaity. But this is my very first post here, so let's just let this one slide, shall we?
 <br><br>
 This post is a practical summary of Niche Zero facts and tips -- based on my 1.5 years of using it both for espresso and filter, and learning/chatting about it on the internets. This grinder has been discussed a lot for the last couple years, but I haven't yet seen all of these Niche-specific tips written in a single place.
@@ -97,7 +99,7 @@ So I bought [this thing](https://www.amazon.co.uk/gp/product/B09P3KQRWB) to blow
 
 And that's pretty much it! Of course there are lots of other things you can do to improve your filter and espresso brews, but they are not specific to the Niche, and therefore outside of the scope of this article.
 
-Special thanks to folks from the Decent discord, especially [Rohan B.](https://pocketsciencecoffee.com/), for lots of interesting discussions and proof-reading this post.
+Special thanks to folks from the Decent discord for lots of interesting discussions.
 
 I'm sorry if I forgot to mention or put a reference to someone, as lots of people have been discussing this, and I'm not claiming that these ideas are originally mine. Also this was intended as a practical guide and not a full-blown literature review.
 
