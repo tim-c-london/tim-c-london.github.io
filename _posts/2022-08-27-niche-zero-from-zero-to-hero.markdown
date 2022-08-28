@@ -1,7 +1,7 @@
 ---
 layout: my_post
 title:  "Niche Zero: From Zero to Hero"
-date:   2022-08-27 19:20:00 +0100
+date:   2022-08-28 10:15:16 +0100
 image: "https://tim-c-london.github.io/assets/posts/niche-zero-zero.jpeg"
 ---
 
@@ -19,13 +19,13 @@ Seriously though, I've made around 300 V60s with the NZ so far and they were *mo
 
 ---
 
-Anyway, as you probably know, the main issue with NZ amongst filter and turbo-fruity-shot folks like me, is the particle size distribution, which realistically is the only real output parameter there is in grinders -- usability and retention aside. In particular, there are two main **issues**:
+Anyway, as you probably know, the main issue with NZ amongst **filter** and turbo-fruity-shot folks like me, is the particle size distribution, which realistically is the only real output parameter there is in grinders -- usability and retention aside. In particular, there are two main **issues**:
 
 #### Issue #1. Lots of tiny coffee particles aka fines
 
 It's a good thing for classic style espresso as it gives it the body many people desire, but for filter the story is different. First, **fines** extract immediately and are prone to over-extraction especially with the long filter brew time, giving you that unpleasant bitter taste, although realistically they won't contribute too much to the resulting extraction given how small of a fraction of the total volume they occupy, so this is probably not our biggest problem.
 
-Second, and most annoyingly, they clog the filter, effectively turning your bright quick percolation V60 into an awkward slow dripping brew, stretching the brew times from 2-3 minutes to 5-6 or even more (I've had 20-minute V60s on coarse grinds), resulting in a muted over-extracted cup. 
+Second, and most annoyingly, they **clog** the filter, effectively turning your bright quick percolation V60 into an awkward slow dripping brew, stretching the brew times from 2-3 minutes to 5-6 or even more (I've had 20-minute V60s with coarse grinds), resulting in a muted over-extracted cup. 
 
 Check out this great Scott Rao's [article](https://www.scottrao.com/blog/2017/8/27/fines-fine-for-espresso-not-so-fine-for-filter ) on fines, and Jonathan Gagne's [fantastic article](https://coffeeadastra.com/2019/07/16/why-do-percolation-and-immersion-coffee-taste-so-different/) on immersion vs percolation for more info.
 
@@ -42,7 +42,7 @@ In reverse, the larger-sized part of the peak -- _large_ boulders -- will probab
 
 ---
 
-And that's it! Now, let's figure out the **solutions** for these problems.
+And that's it! Now, let's figure out the **solutions** for these problems when brewing **filter** coffee.
 
 #### 1. Grind MUCH coarser -- way past the calibration mark
 
@@ -87,7 +87,7 @@ Either way, keeping all variables the same and changing only temperature, I've g
 
 ---
 
-These three points are the most important ones in my experience. Let's throw in a few more.
+These three points are the most important ones in my experience to make filter coffee taste better with the Niche. Let's throw in a few more which are also applicable to making espresso.
 
 #### 4. A controversial one, but... try grinding from frozen
 Freezing the beans is an entirely different topic and I know how cumbersome and wasteful it is. However, some people have noticed that grinding from frozen changes the amount and kind of fines produced (see Scott Rao's link above). Personally I haven't researched the effects enough as I'm freezing the beans for preservation reasons. As an anecdotal evidence though, I'm able to agitate the V60 very aggressively at any moment without negative effects on the drawdown time with the coarse enough grind. Moreover, the espresso extraction process from frozen beans consistently looks much better visually with less noticeable channelling, but again I have no further data.
