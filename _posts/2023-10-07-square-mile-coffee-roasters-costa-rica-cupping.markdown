@@ -12,27 +12,21 @@ Had an incredible time visiting the Square Mile Coffee roastery in London, for t
 ### Roastery tour
 It started with a tour of their roastery, which made me a very happy coffee nerd: after all, it's one of the best coffee roasters in the UK, one of my long time personal favourites, and I've already seen this place on James Hoffmann's [YouTube channel](https://www.youtube.com/watch?v=7kkRdNHiAp4) a few years ago. Apparently, they still have the roaster he used for his winning WBC performance.
 
-<details>
-	<summary>Roastery photos</summary>
 <div>
 	<img src="/assets/posts/square-mile-cupping/roastery.jpg" alt="" width="49%"/>
 	<img src="/assets/posts/square-mile-cupping/smol-probat.jpg" alt="" width="49%"/>
 </div>
+&#10;
 <div>
 	<img src="/assets/posts/square-mile-cupping/greens.jpg" alt="" width="49%"/>
 	<img src="/assets/posts/square-mile-cupping/large-roaster.jpg" alt="" width="49%"/> 
 </div>
-</details>
 &nbsp;
 
 ### Cupping
 After the tour, the actual cupping began. The cupping table had 4 Catuai coffees from Costa Rica with 4 different types of Honey process, which Costa Rica is renowned for: white, yellow, red, and black. 
 
-<details>
-  <summary>Cupping table</summary>
-<img src="/assets/posts/square-mile-cupping/cupping-table.jpg" alt="Cupping table"/>
-</details>
-&nbsp;
+![Cupping table](/assets/posts/square-mile-cupping/cupping-table.jpg){:.centered}
 
 #### Honey process - quick reference
 Honey process is basically the middle ground between washed (no fruit left before drying) and natural (the whole fruit is left). The colour order represents how much fruit remains on the bean before drying - from white (almost washed), to black (almost natural). In other words, it's roughly what colour the coffee becomes after drying.
@@ -56,7 +50,5 @@ It's also impressive how, while being super informative, it all still felt quite
 
 **TL;DR:** awesome experience for all coffee nerds, highly recommended!
 
-<details>
-  <summary>Me and my wife got a free sample each, and I couldn't resist getting another bag</summary>
-<img src="/assets/posts/square-mile-cupping/bags.jpg" alt="Brought some stash home"/>
-</details>
+{:.text-align-center}
+![Brought some stash home](/assets/posts/square-mile-cupping/bags.jpg){:.centered} Me and my wife got a free sample each, and I couldn't resist getting another bag 
