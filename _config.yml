@@ -42,6 +42,7 @@ disqus:
   shortname: tim-c-london
 
 google_analytics: UA-238798828-1
+google_tag: G-WWTKM78JD2
 
 # Exclude from processing.
 # The following items will not be processed, by default.
