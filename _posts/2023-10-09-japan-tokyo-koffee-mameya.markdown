@@ -2,7 +2,7 @@
 layout: my_post
 title:  "Koffee Mameya in Tokyo, Japan"
 date:   2023-10-09 08:00:00 +0100
-image: "https://tim-c-london.github.io/assets/posts/niche-zero-zero.jpeg"
+image: "https://tim-c-london.github.io/assets/posts/koffee-mameya/grid-coffee.jpg"
 ---
 
 During my Japan trip, I've had a chance to visit the legendary [Koffee Mameya](https://koffee-mameya.com/), and I'm excited to share my experience! It's [located](https://maps.app.goo.gl/xqBTfq9ZP2yiALNu7) in Omotesando region of Tokyo — overall a dream area for a coffee nerd, where you can see yet another specialty coffee place every minute you keep on discovering its surroundings. 
