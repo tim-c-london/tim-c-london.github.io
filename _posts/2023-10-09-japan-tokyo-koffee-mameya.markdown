@@ -1,7 +1,7 @@
 ---
 layout: my_post
 title:  "Koffee Mameya in Tokyo, Japan"
-date:   2023-10-09 08:00:00 +0100
+date:   2023-10-09 22:36:36 +0100
 image: "https://tim-c-london.github.io/assets/posts/koffee-mameya/grid-coffee.jpg"
 ---
 
